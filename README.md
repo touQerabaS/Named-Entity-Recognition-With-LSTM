@@ -1,0 +1,2 @@
+# Named-Entity-Recognition-With-LSTM
+Download the dataset (use ner_dataset) and conduct the appropriate preprocessing steps.  LSTM on the dataset. Explain the architecture you employed for both algorithms. Divide the dataset into training, validation, and test set. Use the validation set to select the best learning rate. After the validation phase, combine the training and the validation sets and train your model on the combined set using the best learning rate.  Compare the performance of your models in terms of accuracy and F1 and training time.  Algorithms in PyTorch.
